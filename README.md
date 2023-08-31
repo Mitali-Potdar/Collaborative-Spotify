@@ -1,1 +1,1 @@
-# houseparty
+# Collaborative Spotify
