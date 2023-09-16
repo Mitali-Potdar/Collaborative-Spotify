@@ -1,6 +1,6 @@
 # Collaborative Spotify: A collaborative Spotify playback application for synchronized song playback
 
-Website developed in React.Js and Django
+#### Website developed in React.Js and Django
 
 ***
 
